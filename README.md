@@ -29,7 +29,7 @@ F4 - Spotify
 After i've marked IDs it is very productive to switch fast between them especially when having multiple Chrome users. You can even mark different IDs to same Chrome user if you are using several Chrome windows.   
 
 
-This is my first script so i am not sure if usage is clear enough. 
+This is my first script so i am not sure if usage is clear enough.  
 Good luck using it!  
 
 
