@@ -17,7 +17,7 @@ Numpad* = Play previous track
 
 Using media keys may activate Windows media control overlay popup. You can turn off this in application settings.   
 Spotify - you can change this at "Show desktop overlay when using media keys".  
-Chrome  - go under chrome://flags/ then Media Session then disable Hardware Media Key Handling.   
+Chrome  - go under chrome://flags/ then Media Session then enable Hardware Media Key Handling.   
 
 
 My setup when working is like this:  
