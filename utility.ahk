@@ -14,22 +14,22 @@ NumpadMult::Media_Prev
 ;process get
 f9::
 WinGet, active_id, ID, A
-MsgBox, Aktivni ID prozora je "%active_id%"
+MsgBox, Active ID: "%active_id%"
 return
 f10::
 WinGet, active_id2, ID, A
-MsgBox, Aktivni ID prozora je "%active_id2%"
+MsgBox, Active ID: "%active_id2%"
 return
 f11::
 WinGet, active_id3, ID, A
-MsgBox, Aktivni ID prozora je "%active_id3%"
+MsgBox, Active ID: "%active_id3%"
 return
 f12::
 WinGet, active_id4, ID, A
-MsgBox, Aktivni ID prozora je "%active_id4%"
+MsgBox, Active ID: "%active_id4%"
 return
 
-;procesi aktiviranje
+;process activation
 f1::
 WinActivate, ahk_id%active_id%
 return
